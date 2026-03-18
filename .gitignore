@@ -49,7 +49,6 @@ Thumbs.db
 # Project specific
 backend/uploads/
 backend/chroma_data/
-data/
 
 # Node (if frontend uses Node)
 node_modules/
